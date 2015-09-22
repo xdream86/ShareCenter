@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B3F86AF9AD7DCA6C22877235CE1757AD38000B84",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E4D582F7A3254EBC13D919F507CC72B9BEEC7284" : 0,
+    "B3F86AF9AD7DCA6C22877235CE1757AD38000B84" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3501D256-0C1B-41C0-9B61-514A4735897E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E4D582F7A3254EBC13D919F507CC72B9BEEC7284" : "ilslib",
+    "B3F86AF9AD7DCA6C22877235CE1757AD38000B84" : "ILSShareCenter"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ILSShareCenter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ILSShareCenter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:xiajun\/sharecenter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B3F86AF9AD7DCA6C22877235CE1757AD38000B84"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.ilegendsoft.com:iosdev\/ilslib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E4D582F7A3254EBC13D919F507CC72B9BEEC7284"
+    }
+  ]
+}
